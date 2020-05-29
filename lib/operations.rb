@@ -2,6 +2,7 @@ def unsafe?(speed)
    if !(40...60).include?(speed) 
      true
    else
+     false
 end
 
 
